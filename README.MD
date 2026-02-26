@@ -1,4 +1,4 @@
-# 📘 PRATICAL Repository
+# 📘 1 Semester Repository
 
 This repository contains my **college practical codes, diagrams, and learning materials** for **Data Structures (DS)** and **Object-Oriented Software Engineering (OOSE)**.  
 I created this repo to store all practical implementations, UML diagrams, and learning references in one place.

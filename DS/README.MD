@@ -69,6 +69,13 @@ This repository helped me:
 
 ---
 
+## 🔗 Check Out  
+This repository contains my **personal Data Structures and Algorithms practice codes**, implemented independently alongside my college curriculum.
+
+Link : https://github.com/Vinay-techdev/DSA-Learning.git
+
+---
+
 ## 👨‍💻 Author
 **Vinay**  
 1st Year CSE Student | PES University  
